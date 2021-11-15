@@ -1,0 +1,2 @@
+access_token="replace_with_your_access_token"
+page_id="replace_with_your_page_id"
